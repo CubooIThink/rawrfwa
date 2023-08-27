@@ -7,4 +7,6 @@
 
 > DELETE  3  @  3 : 4
 
+> DELETE  52  @  52 : 53
+
 > EOF

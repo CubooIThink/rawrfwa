@@ -79,7 +79,11 @@
 
 > DELETE  1  @  1 : 21
 
-> DELETE  1404  @  1404 : 1462
+> CHANGE  117 : 118  @  117 : 118
+
+~ 			return Chunk.getNoSkyLightValue();
+
+> DELETE  1286  @  1286 : 1344
 
 > DELETE  40  @  40 : 64
 
